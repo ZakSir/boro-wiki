@@ -7,3 +7,6 @@
 
     window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
 </script>
+
+# foo
+Test
